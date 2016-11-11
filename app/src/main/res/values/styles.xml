@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="line_radio_btn_bottom">
+        <item name="android:background">@drawable/line_main_radio_btn_bg</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#858585 </item>
+    </style>
+    <style name="chart_bottom_tab_text_size" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textSize">11dp</item>
+        <item name="android:textColor">#373737</item>
+    </style>
+</resources>

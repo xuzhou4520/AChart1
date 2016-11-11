@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- 分时线指标tab的高度 -->
+    <dimen name="line_index_tab_height">28dp</dimen>
+    <!-- 显示分时线上面的点数据 -->
+    <dimen name="line_msg_text_size">10dp</dimen>
+</resources>

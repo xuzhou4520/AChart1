@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- 大盘页面下面的radioBtn的背景色，选中时 -->
+    <drawable name="line_main_checked">#e3f0ff</drawable>
+    <!-- 大盘页面下面的radioBtn的背景色，未选中时 -->
+    <drawable name="line_main_unchecked">#fff</drawable>
+</resources>
